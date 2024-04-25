@@ -1,4 +1,4 @@
 LeetCode Grind
 ==============
 
-### This repo is for LeetCode Algorithm solutions
+### This repo is for personal LeetCode Algorithm solutions
